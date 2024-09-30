@@ -1,4 +1,3 @@
-# MENAMPILKAN SUATU TAHUN TERMASUK KABISAT / TIDAK (zalfa)
 import calendar
 
 tahun = int(input("masukkan tahun: "))
